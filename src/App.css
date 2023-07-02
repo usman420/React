@@ -1,0 +1,66 @@
+.Task {
+  text-align: center;
+  letter-spacing: 5px;
+  word-spacing:5px;
+  line-height: 2;
+  background-color: orange;
+  color:green;
+  border: 5px solid purple;
+  border-bottom:5px solid green ;
+  border-collapse: seperate;
+  padding-left: 1px;
+  margin:1px;
+  display:grid ; 
+  position:fixed;
+  left:0;
+  right:0;
+
+  
+}
+.font-link{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+}
+body {
+  background-color: rgb(123, 255, 0);
+
+}
+.Task1{
+ border: 1px solid purple;
+ padding: auto;
+ margin:auto;
+ position: relative;
+ text-align: center;
+ left: 10x;
+ right:0;
+ top:1;
+ bottom:0;
+
+}
+.input{
+  
+  margin:auto;
+  display:block;
+  position: realtive;
+  top: 0;
+  left: 0;
+  right:45%;
+  width: 25%;
+  padding: 10px;
+  box-sizing: border-box;
+  
+} 
+.Button {
+position: relative;
+right:0%;
+left: 46%;
+background-color:red;
+
+} 
+.opaque-card {
+  opacity: 0.5; /* Adjust the opacity value as needed */
+}
+
+
+
