@@ -1,3 +1,4 @@
+# This is a todo app inwhich you can create and delete task ,on completion use can also mark them 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
