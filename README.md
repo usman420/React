@@ -1,4 +1,4 @@
-# This is a todo app inwhich you can create and delete task ,on completion use can also mark them 
+# This is a todo app in which you can create and delete task ,on completion use can also mark them 
 ![Screencast from 02 07 2023 15 47 11](https://github.com/usman420/React/assets/21099476/33502126-5e8e-42be-9838-84db81abde1d)
 n use can also mark them 
 # Getting Started with Create React App
